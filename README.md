@@ -1,4 +1,4 @@
-# Bitcoin-Price-and-Tweets
+# Bitcoin-Price-and-Tweets (03/2023)
 - This project has the goal to predict the bicoin price by using tweets containing hash tags like #BTC or #Bitcoin
 - First we generate to each tweet a sentiment score through the usage of the pretrained transformer model finBERT
 - Then the mean sentiment score per day is calculated
